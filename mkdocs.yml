@@ -1,11 +1,11 @@
-site_name: "IELTS BẰNG NIỀM TIN"
+site_name: "How to build"
 docs_dir: ./docs/ObsidianVault/
-site_url: https://dreamielts.github.io/
+site_url: https://Buildingblock.github.io/
 
-site_description: IELTS BẰNG NIỀM TIN
-site_author: haihabk51
+site_description: create something from learning
+site_author: hienhoa94
 
-repo_url: https://github.com/dreamielts/dreamielts.github.io/
+repo_url: https://github.com/What-to-build/Buildingblock.github.io/
 
 
 theme:
